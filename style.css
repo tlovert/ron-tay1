@@ -95,3 +95,7 @@ p {
   flex-wrap: wrap;
 }
 
+.row, .navbar {   
+    flex-direction: column;
+  }
+
