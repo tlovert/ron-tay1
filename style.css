@@ -89,7 +89,7 @@ p {
     margin-left: 75px;
     font-size: 30px;
   }
-
+/* Column */
 .row {  
   display: flex;
   flex-wrap: wrap;
